@@ -6,7 +6,7 @@ Actualmente cursando el último ciclo en ISIL. Trabajo en el área de E-commerce
 
 🛠️ Proyectos actuales: Automatización de procesos e IoT con Node-RED.
 
-🎯 Meta 2026: Graduarme y dar el salto a Junior Android Developer.
+🎯 Meta 2026: Graduarme y dar el salto a Junior Android Developer. ##
 
 <!--
 **Naibaf-pixel/naibaf-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
